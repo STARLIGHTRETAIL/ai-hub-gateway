@@ -1,0 +1,13 @@
+name: ai-hub-gateway
+id: ari:cloud:compass:b099cca4-e168-464e-955f-9bc5bd1e455b:component/3d461702-821a-4c5d-a6f6-eb922d0c914e/45ea5e20-a541-4367-a114-50109c2e6bd0
+description: Reference architecture that provides a set of guidelines and best practices for implementing a central AI API gateway to empower various line-of-business units in an organization to leverage Azure AI services
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
